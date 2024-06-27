@@ -1,0 +1,22 @@
+body{
+    background-color: #d8d8d8;
+}
+span{
+    font-size: 30px;
+    color: black;
+    font-weight: 700;
+    /* margin-top: 1px; */
+}
+.c_img{
+    margin-bottom: 5px;
+    width: 50px;
+}
+.c_text{
+    color: black;
+    font-size: medium;
+    font-weight: 700;
+    margin-right: 50px;
+}
+.cu_nav{
+    position:absolute
+}
